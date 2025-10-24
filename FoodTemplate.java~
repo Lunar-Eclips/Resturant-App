@@ -39,12 +39,5 @@ public class FoodTemplate
       return Bill_after;
     }
 
-      // for easily adding food
-      public void foodAdder(String name,int price,int estimatedTime){
-        
-      this.name = name;
-      this.price = price;
-      this.estimatedTime = estimatedTime;
-      
-      }
+
 }
